@@ -1,10 +1,3 @@
-<!-- Dark Theme Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F2F2F2&background=1E1E1E00&center=true&vCenter=true&width=450&lines=Hey+there!+I'm+Masebola+Sikhwivhilu;Second+Year+Computer+Science+Student;I+Love+Turning+Ideas+Into+Code" alt="Typing SVG" />
-</p>
-
----
-
 # Hi, I'm Masebola Sikhwivhilu
 
 ### 🚀 Second-Year Computer Science Student | Passionate Coder | Web Dev Enthusiast
@@ -23,12 +16,12 @@ Welcome to my corner of GitHub! I'm currently in my second year at the Universit
 
 ### 🧠 Languages & Tools
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 ---
 
@@ -64,16 +57,6 @@ I'm constantly improving, seeking mentorship, and aiming to contribute to real-w
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Masebola-Sikhwivhilu&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Masebola-Sikhwivhilu&theme=radical" alt="GitHub streak" />
-</p>
-
----
-
 ### 📬 Let's Connect
 
 Want to collaborate, give feedback, or just say hi? I'm always open to learning from others!
@@ -83,3 +66,4 @@ Want to collaborate, give feedback, or just say hi? I'm always open to learning 
 > *"Code is the closest thing we have to magic. I'm here to master the spellbook."*
 
 ---
+
